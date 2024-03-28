@@ -1,0 +1,33 @@
+
+.post{
+
+    border: groove;
+    margin-left: 70px;
+    width: 20rem;
+    img{
+        width: 250px;
+        height: 150px;  
+    }
+   margin-bottom: 20px;
+      
+}
+
+.post  :hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.carousel{
+    margin-top: 15px;
+    margin-left: 125px;
+    margin-bottom: 15px;
+    width:1000px;
+   
+    .carousel .text{
+        color: antiquewhite;
+    }
+
+    .d-block{
+        border-radius: 10dvh;
+    }
+}
